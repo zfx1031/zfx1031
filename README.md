@@ -1,5 +1,11 @@
 # 👋 Welcome to My Profile!
 
+<p>
+  <a href="https://github.com/zfx1031">
+    <img src="https://komarev.com/ghpvc/?username=zfx1031&color=orange&style=flat)" />
+  </a>
+</p>
+
 ### STATS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zfx1031&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -15,4 +21,3 @@
 ### os
 
 [![Windows](https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows)](https://github.com/zfx1031) [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://github.com/zfx1031)
-
